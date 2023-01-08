@@ -2,9 +2,6 @@
 
 Compilation of Tableau project for Data Visualizations.
 
-### Visualization Tool
-+ Tableau Public
-
 ### View on Tableau Public
 + [View more details](https://public.tableau.com/app/profile/diogo8824/viz/Movies_dataset2/Dashboard1)
 
